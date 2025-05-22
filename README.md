@@ -1,5 +1,5 @@
 # FZU Bioinformatics Lab
-We build a feature selection framework to solve the feature selection problem in multi-omics dataset. Our framework is implemented based on code from [FSNS](https://github.com/NanxuGong/feature-selection-via-autoregreesive-generation)
+We build a feature selection framework to solve the feature selection problem in multi-omics dataset. Our framework is implemented based on code from [FSNS](https://github.com/NanxuGong/feature-selection-via-autoregreesive-generation).
 ## Framework
 ![framework](image/framework.png)
 ## Implementation
